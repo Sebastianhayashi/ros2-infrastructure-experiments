@@ -1,0 +1,241 @@
+[ 16%] Built target ignition-common3
+[ 18%] Built target gtest
+[ 19%] Built target gtest_main
+[ 21%] Built target UNIT_Base64_TEST
+[ 23%] Built target UNIT_Battery_TEST
+[ 25%] Built target UNIT_Console_TEST
+[ 27%] Built target UNIT_EnumIface_TEST
+[ 29%] Built target UNIT_Filesystem_TEST
+[ 31%] Built target UNIT_FlagSet_TEST
+[ 33%] Built target UNIT_MaterialDensity_TEST
+[ 35%] Built target UNIT_MovingWindowFilter_TEST
+[ 38%] Built target UNIT_PluginLoader_TEST
+[ 39%] Built target UNIT_PluginUtils_TEST
+[ 41%] Built target UNIT_SignalHandler_TEST
+[ 42%] Built target UNIT_StringUtils_TEST
+[ 44%] Built target UNIT_SystemPaths_TEST
+[ 45%] Built target UNIT_TemplateHelpers_TEST
+[ 47%] Built target UNIT_Time_TEST
+[ 50%] Built target UNIT_URI_TEST
+[ 51%] Built target UNIT_Util_TEST
+[ 53%] Built target UNIT_Uuid_TEST
+[ 55%] Built target UNIT_WorkerPool_TEST
+[ 56%] Built target INTEGRATION_console
+[ 58%] Built target INTEGRATION_deprecated_TEST
+[ 64%] Built target ignition-common3-av
+[ 65%] Built target INTEGRATION_encoder_timing
+[ 67%] Built target IGNDummyPlugins
+[ 69%] Built target INTEGRATION_plugin
+[ 71%] Built target INTEGRATION_video_encoder
+[ 72%] Built target PERFORMANCE_logging
+[ 75%] Built target PERFORMANCE_plugin_specialization
+[ 76%] Built target IGNBadPluginAlign
+[ 77%] Built target IGNBadPluginAPIVersionNew
+[ 79%] Built target IGNBadPluginAPIVersionOld
+[ 81%] Built target IGNBadPluginSize
+[ 82%] Built target UNIT_AudioDecoder_TEST
+[ 83%] Built target UNIT_VideoEncoder_TEST
+[ 86%] Built target ignition-common3-events
+[ 88%] Built target UNIT_Event_TEST
+[ 89%] Built target UNIT_KeyEvent_TEST
+[ 90%] Built target UNIT_MouseEvent_TEST
+[ 94%] Built target ignition-common3-profiler
+[ 96%] Built target UNIT_Profiler_Disabled_TEST
+[ 97%] Built target UNIT_Profiler_Error_TEST
+[100%] Built target UNIT_Profiler_Remotery_TEST
+Install the project...
+-- Install configuration: "RelWithDebInfo"
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-all/ignition-common3-all-config.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-all/ignition-common3-all-config-version.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-all/ignition-common3-all-targets.cmake
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/detail/Export.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Export.hh
+-- Up-to-date: /usr/local/lib64/libignition-common3.so.3.17.0
+-- Up-to-date: /usr/local/lib64/libignition-common3.so.3
+-- Up-to-date: /usr/local/lib64/libignition-common3.so
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3/ignition-common3-config.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3/ignition-common3-config-version.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3/ignition-common3-targets.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3/ignition-common3-targets-relwithdebinfo.cmake
+-- Up-to-date: /usr/local/lib64/pkgconfig/ignition-common3.pc
+-- Up-to-date: /usr/local/include/ignition/common3/ignition
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/URI.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/PluginMacros.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Uuid.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Filesystem.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Timer.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/MovingWindowFilter.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Util.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Time.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/PluginLoader.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/FlagSet.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/MaterialDensity.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/SystemPaths.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/TemplateHelpers.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/SignalHandler.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/SuppressWarning.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Base64.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/WorkerPool.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Export.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/PluginInfo.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/EnumIface.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Console.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Plugin.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/PluginPtr.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/SpecializedPluginPtr.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/config.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/SingletonT.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Battery.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/SpecializedPlugin.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/StringUtils.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/detail/Plugin.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/detail/PluginLoader.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/detail/PluginMacros.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/detail/PluginPtr.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/detail/SpecializedPlugin.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/detail/SuppressWarning.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/detail/TemplateHelpers.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Base64.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Battery.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Console.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/EnumIface.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Filesystem.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/FlagSet.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/MaterialDensity.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/MovingWindowFilter.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Plugin.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/PluginInfo.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/PluginLoader.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/PluginMacros.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/PluginPtr.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/SignalHandler.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/SingletonT.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/SpecializedPlugin.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/SpecializedPluginPtr.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/StringUtils.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/SuppressWarning.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/SystemPaths.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/TemplateHelpers.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Time.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Timer.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/URI.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Util.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Uuid.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/WorkerPool.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/../common.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/config.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/av/detail/Export.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/av/Export.hh
+-- Up-to-date: /usr/local/lib64/libignition-common3-av.so.3.17.0
+-- Up-to-date: /usr/local/lib64/libignition-common3-av.so.3
+-- Up-to-date: /usr/local/lib64/libignition-common3-av.so
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-av/ignition-common3-av-config.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-av/ignition-common3-av-config-version.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-av/ignition-common3-av-targets.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-av/ignition-common3-av-targets-relwithdebinfo.cmake
+-- Up-to-date: /usr/local/lib64/pkgconfig/ignition-common3-av.pc
+-- Up-to-date: /usr/local/include/ignition/common3/ignition
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/av.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/HWVideo.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/VideoEncoder.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/ffmpeg_inc.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Video.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/AudioDecoder.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/av
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/av/Util.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/av/Export.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/av/Util.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/AudioDecoder.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/HWVideo.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Video.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/VideoEncoder.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/ffmpeg_inc.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/av/../av.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/events/detail/Export.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/events/Export.hh
+-- Up-to-date: /usr/local/lib64/libignition-common3-events.so.3.17.0
+-- Up-to-date: /usr/local/lib64/libignition-common3-events.so.3
+-- Up-to-date: /usr/local/lib64/libignition-common3-events.so
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-events/ignition-common3-events-config.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-events/ignition-common3-events-config-version.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-events/ignition-common3-events-targets.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-events/ignition-common3-events-targets-relwithdebinfo.cmake
+-- Up-to-date: /usr/local/lib64/pkgconfig/ignition-common3-events.pc
+-- Up-to-date: /usr/local/include/ignition/common3/ignition
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/events.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/KeyEvent.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/MouseEvent.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Event.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/events
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/events/Types.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/events/Export.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/events/Types.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Event.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/KeyEvent.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/MouseEvent.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/events/../events.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/profiler/detail/Export.hh
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/profiler/Export.hh
+-- Up-to-date: /usr/local/lib64/libignition-common3-profiler.so.3.17.0
+-- Up-to-date: /usr/local/lib64/libignition-common3-profiler.so.3
+-- Up-to-date: /usr/local/lib64/libignition-common3-profiler.so
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-profiler/ignition-common3-profiler-config.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-profiler/ignition-common3-profiler-config-version.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-profiler/ignition-common3-profiler-targets.cmake
+-- Up-to-date: /usr/local/lib64/cmake/ignition-common3-profiler/ignition-common3-profiler-targets-relwithdebinfo.cmake
+-- Up-to-date: /usr/local/lib64/pkgconfig/ignition-common3-profiler.pc
+-- Up-to-date: /usr/local/bin/ign_remotery_vis
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Styles
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Styles/Remotery.css
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Styles
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Styles/WindowManager.css
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Code
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Code/Button.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Code/TreeviewItem.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Code/Container.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Code/WindowManager.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Code/Window.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Code/ComboBox.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Code/Treeview.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Code/Label.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Code/Grid.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/WindowManager/Code/EditBox.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/Core
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/Core/Code
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/Core/Code/DOM.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/Core/Code/MurmurHash3.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/Core/Code/LocalStore.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/Core/Code/Animation.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/Core/Code/Convert.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/Core/Code/Bind.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/Core/Code/Keyboard.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/Core/Code/Core.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/extern/BrowserLib/Core/Code/Mouse.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/index.html
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Code
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Code/ThreadFrame.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Code/SampleWindow.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Code/TimelineWindow.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Code/TimelineRow.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Code/PixelTimeRange.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Code/Console.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Code/Remotery.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Code/WebSocketConnection.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Code/TitleWindow.js
+-- Up-to-date: /usr/local/share/ignition/ignition-common3/profiler_vis/Code/DataViewReader.js
+-- Up-to-date: /usr/local/include/ignition/common3/gz
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common
+-- Up-to-date: /usr/local/include/ignition/common3/gz/common/Profiler.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/profiler
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/profiler/Export.hh
+-- Up-to-date: /usr/local/include/ignition/common3/ignition/common/Profiler.hh
