@@ -72,14 +72,14 @@ graph TD
 
 ## ✅ Verified Scenarios (落地验证)
 
-我们不仅仅是跑通了 Hello World，而是实现了分层级的全生态交付。
+我们不仅仅是跑通了 Hello World，而是实现了分层级的生态交付。
 
 | Ecosystem Layer | Status | Key Packages Verified |
 | --- | --- | --- |
 | **L1: Core** | ✅ 100% | `rclcpp`, `rmw_fastrtps`, `rosidl_default_generators` |
 | **L2: Base** | ✅ 100% | `geometry2`, `kdl_parser`, `tf2_ros` |
 | **L3: Desktop** | ✅ 100% | `rviz2`, `rqt`, `turtlesim` (GUI Verified) |
-| **L4: Extended** | ✅ Verified | `MoveIt 2`, `Nav2`, `Gazebo` connectors |
+| **L4: Extended** | Built  | `MoveIt 2`, `Nav2`, `Gazebo` connectors |
 
 ### Cross-Distro Case Study: OpenKylin
 
@@ -93,8 +93,8 @@ graph TD
 
 ### 🧠 1. Strategy & Methodology (战略层)
 
-* **[Why Abandoned Toolchain Porting?](https://www.google.com/search?q=docs/01_Strategy_and_Methodology/Why_Abandon_Porting.md)**: 深度解析架构决策背后的 ROI 分析。
-* **[Verification Scheme](https://www.google.com/search?q=docs/01_Strategy_and_Methodology/Verification_Scheme.md)**: 独创的“逆向依赖验证方案”，解决 Bootstrapping 死锁问题。
+* **[Why Abandoned Toolchain Porting?](https://github.com/Sebastianhayashi/ROS2-Universal-Porting-Framework/blob/main/docs/01_Strategy_and_Methodology/Why_Abandoned_Toolchain_Porting_CN.md.md)**: 深度解析架构决策背后的 ROI 分析。
+* **[Verification Scheme](https://github.com/Sebastianhayashi/ROS2-Universal-Porting-Framework/blob/main/docs/01_Strategy_and_Methodology/Verification_Scheme.md)**: 独创的“逆向依赖验证方案”，解决 Bootstrapping 死锁问题。
 
 ### ⚙️ 2. The Automated Pipeline (战术层)
 
@@ -105,9 +105,3 @@ graph TD
 
 * **[Milestones and Results](https://www.google.com/search?q=docs/03_Project_Results/01_Milestones_and_Results.md)**: 详细的构建数据与下载链接。
 
----
-
-## ⚖️ License
-
-此项目代码基于 Apache-2.0 协议开源。
-This project serves as a reference implementation for porting ROS 2 to unsupported Linux distributions.
