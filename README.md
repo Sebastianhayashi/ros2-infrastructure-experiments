@@ -98,10 +98,10 @@ graph TD
 
 ### ⚙️ 2. The Automated Pipeline (战术层)
 
-* **[Pipeline Architecture](https://www.google.com/search?q=docs/02_The_Automated_Pipeline/01_Pipeline_Architecture.md)**: 技术细节与数据流向。
-* **[Quick Start Guide](https://www.google.com/search?q=docs/02_The_Automated_Pipeline/03_Quick_Start_Guide.md)**: 10分钟复现构建流程的手册。
+* **[Pipeline Architecture](https://github.com/Sebastianhayashi/ROS2-Universal-Porting-Framework/blob/main/docs/02_The_Automated_Pipeline/01_Pipeline_Architecture.md)**: 技术细节与数据流向。
+* **[Quick Start Guide](https://github.com/Sebastianhayashi/ROS2-Universal-Porting-Framework/blob/main/docs/02_The_Automated_Pipeline/03_Quick_Start_Guide.md)**: 10分钟复现构建流程的手册。
 
 ### 📊 3. Project Results (成果层)
 
-* **[Milestones and Results](https://www.google.com/search?q=docs/03_Project_Results/01_Milestones_and_Results.md)**: 详细的构建数据与下载链接。
+* **[Milestones and Results](https://github.com/Sebastianhayashi/ROS2-Universal-Porting-Framework/blob/main/docs/03_Project_Results/01_Milestones_and_Results.md)**: 详细的构建数据与下载链接。
 
